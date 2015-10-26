@@ -1,0 +1,27 @@
+{
+  "name": "ngAutocomplete-waruzhi",
+  "version": "0.0.0",
+  "homepage": "https://github.com/waruzhi/ngAutocomplete",
+  "description": "AngularJS Autocomplete",
+  "main": "src/js/ngAutocomplete.js",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "AngularJS",
+    "AutoComplete",
+    "Autocomplete",
+    "directive"
+  ],
+  "authors": [
+    "waruzhi<waruzhi@163.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
